@@ -1,0 +1,10 @@
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\bin\Debug\Moving Object with Arrow Keys.exe.config
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\bin\Debug\Moving Object with Arrow Keys.exe
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\bin\Debug\Moving Object with Arrow Keys.pdb
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\obj\Debug\Moving Object with the Keyboard.csprojAssemblyReference.cache
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\obj\Debug\Moving_Object_with_Arrow_Keys.Form1.resources
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\obj\Debug\Moving_Object_with_Arrow_Keys.Properties.Resources.resources
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\obj\Debug\Moving Object with the Keyboard.csproj.GenerateResource.cache
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\obj\Debug\Moving Object with the Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\obj\Debug\Moving Object with Arrow Keys.exe
+C:\Users\delet\source\repos\Moving Object with Arrow Keys\Moving Object with Arrow Keys\obj\Debug\Moving Object with Arrow Keys.pdb
